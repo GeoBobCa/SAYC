@@ -1,0 +1,19 @@
+.md-typeset {
+  font-size: 0.85rem;
+  line-height: 1.65;
+}
+.md-typeset h1 {
+  font-weight: 700;
+  letter-spacing: -0.025em;
+}
+.md-typeset h2 {
+  font-weight: 650;
+}
+.md-typeset table:not([class]) th {
+  background: #edf5f3;
+  color: #123e3a;
+}
+.md-typeset .admonition {
+  font-size: 0.78rem;
+}
+
