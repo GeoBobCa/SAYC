@@ -24,6 +24,10 @@ nav = [
     { "Linking lessons" = "reference/lesson-links.md" },
     { "Sources and classroom agreement" = "reference/sources.md" },
   ] },
+  { "Cheat Sheets" = [
+    { "Jump Bids" = "Bridge_Jump_Bids_Cheat_Sheet.md"},
+
+  ]}
 ]
 
 [project.theme]
