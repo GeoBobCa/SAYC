@@ -26,6 +26,7 @@ nav = [
   ] },
   { "Cheat Sheets" = [
     { "Jump Bids" = "Bridge_Jump_Bids_Cheat_Sheet.md"},
+    { "Passed Hand Spade Raise" = "Passed_Hand_Spade_Raise.md"}
 
   ]}
 ]
