@@ -24,6 +24,15 @@ nav = [
     { "Linking lessons" = "reference/lesson-links.md" },
     { "Sources and classroom agreement" = "reference/sources.md" },
   ] },
+  { "Practice lessons" = [
+    { "Minor support and a four-card major" = "lessons/bidding/minor-support-and-a-major.md" },
+    { "Using a ruff as an entry" = "lessons/play/ruff-as-an-entry.md" },
+  ] },
+  { "From our games" = [
+    { "November 16" = "from-our-games/2026-11-16/index.md" },
+    { "Board 25" = "from-our-games/2026-11-16/board-25.md" },
+    { "Board 16" = "from-our-games/2026-11-16/board-16.md" },
+  ] },
   { "Overcalls" = [
   { "Cheat sheet" = "overcalls/overcall-cheat-sheet.md" },
   { "Demonstration hands" = "overcalls/overcall-demonstrations.md" },
