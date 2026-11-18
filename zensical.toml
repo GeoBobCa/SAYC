@@ -15,7 +15,13 @@ nav = [
     { "Weak twos and preempts" = "bidding/preempts.md" },
     { "Competitive bidding" = "bidding/competition.md" },
     { "Slam bidding" = "bidding/slam.md" },
-  ] },
+    ] },
+  { "Conventions and practices" = [
+      { "Overview and references" = "conventions/index.md" },
+      { "Michaels cuebids" = "conventions/michaels-cuebids.md" },
+      { "Doubles" = "conventions/doubles.md" },
+      { "Counting winners and losers" = "conventions/counting-winners-and-losers.md" },
+    ] },
   { "Play and defense" = [
     { "How a hand is played" = "play/trick-play.md" },
     { "Opening leads and signals" = "play/defensive-card-play.md" },
